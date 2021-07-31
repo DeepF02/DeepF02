@@ -1,6 +1,6 @@
-- 🙌 Hii, reader I’m Deep Fumatiya
+- 🙌 Hii there I’m Deep Fumatiya
 - 👨‍💻 I’m interested in web development and competitive coding
-- ✨ I’m currently learning Backend development and fronend frameworks
+- ✨ I’m currently learning Backend development and frontend frameworks
 - 💞️ I’m looking for collaborations in interesting web dev projects
 - 📫 Let's get connected https://www.linkedin.com/in/deep-fumtiya-510958212
 <!---
