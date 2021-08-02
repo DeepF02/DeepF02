@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me:<br>
 <a href = "https://www.instagram.com/deep_fumatiya/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/deep-fumtiya-510958212/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
-<a href = "https://ganish.com.np/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a>
+<!-- <a href = "https://ganish.com.np/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a> -->
 
 *************
 
