@@ -3,9 +3,9 @@
 
 ***********************************
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /> </p>
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya)
+<p>[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya)</p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
+## Some info on me<br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Deep Fumatiya from India.
 - 🎓 I’m currently pursuing my Bachelor of Technology in Electronics Engineering from Veermata Jijabai Technological Institute(VJTI), Mumbai, India.
 - 🌱 I’m currently improving and practicing my skills for Full-Stack Development.
@@ -15,8 +15,6 @@
 
 ## Skills
 - ### 👩‍💻 Languages
-
-
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -46,18 +44,13 @@
  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepF02&layout=compact&show_icons=true&theme=cobalt" alt="DeepF02" /></p>
 </p>
 
-
-<!-- ![Deep Fumatiya Github Stats](https://github-readme-stats.vercel.app/api?username=DeepF02&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
-
 <br /> 
 
 - 📫 Connect we me ;)<br>
 <a href = "https://www.instagram.com/deep_fumatiya/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/deep-fumtiya-510958212/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
-<!-- <a href = "https://ganish.com.np/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a> -->
 
 *************
-
 ⭐️From [DeepF02](https://github.com/DeepF02)⭐️
 
 #### Thanks for reading.. Go ahead and have a look on my recent repo's.
