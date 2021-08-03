@@ -1,5 +1,5 @@
-### Welcome Reader/Visiter/Recruiter 👋 I am Deep
-{"A?":"B","a":5,"d":"B","h":"www.canva.com","c":"DAEl8twqcwc","i":"4pPBpzs8GAOjZHq0TjZxJg","b":1628011534857,"A":[{"A?":"I","A":297.23617941734256,"B":332.64094591172864,"D":1269.921259842519,"C":954.1478282956562,"a":{"A":false,"I":{"A":"VAECoVRhjLU","B":{"D":1269.921259842519,"C":954.1478282956562},"F":"B","I":true}}}],"B":1587.4015748031495,"C":2245.03937007874}
+# Welcome Reader/Visiter/Recruiter 👋 I am Deep
+<img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder.gif" width="360"/>
 
 ***********************************
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /> </p>
