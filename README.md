@@ -1,9 +1,11 @@
 <h1 align="center"> Welcome Reader/Visiter/Recruiter 👋 I am Deep</h1>
 <!--   <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder.gif" width="360"/> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /> 
+&nbsp;&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya2) </p>
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya2) ![](https://visitor-badge.glitch.me/badge?page_id=DeepF02.profileviews-badge)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya2)
 
+*************
 ## Some info on me<br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Deep Fumatiya from India.
 - 🎓 I’m currently pursuing my Bachelor of Technology in Electronics Engineering from Veermata Jijabai Technological Institute(VJTI), Mumbai, India.
@@ -12,7 +14,7 @@
 - 💬 Ask me about Full Stack technologies, Competetive programming, Anime and life in general.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/deep-fumtiya-510958212/).
 
-
+*************
 ## Skills
 - ### 👩‍💻 Languages
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -35,7 +37,7 @@
   ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
+*************
 ## Github Stats
 <p align="left">
  ![Deep Fumatiya Github Stats]
@@ -45,8 +47,14 @@
  <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepF02&layout=compact&show_icons=true&theme=cobalt" alt="DeepF02" /></p>
 </p>
 
-<br /> 
+<br />
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jatin-salve-b1001b1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@jatin-salve-b1001b1a2/" height="30" width="40" /></a>
+<a href="https://jasalve-b19.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jasalve-b19" height="30" width="40" /></a>
+</p>
+*************
 - 📫 Connect we me ;)<br>
 <a href = "https://www.instagram.com/deep_fumatiya/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/deep-fumtiya-510958212/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
