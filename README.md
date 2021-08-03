@@ -8,11 +8,13 @@ DeepF02/DeepF02 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 ***********************************
-### Welcome Reader/Visiter 👋
+### Welcome Reader/Visiter/Recruiter 👋 I am Deep
+
+***********************************
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Deep Fumatiya from India.
-- 🔭 I’m currently pursuing my Bachelor of Technology in Electronics engineering from V.J.T.I. Mumbai.(Bsc.CSIT).
+- 🔭 I’m currently pursuing my Bachelor of Technology in Electronics Engineering from V.J.T.I. Mumbai.
 - 🌱 I’m currently improving and practicing my skills for Full-Stack Development.
 - 👯 I’m looking to collaborate in exciting wed dev projects and also Open-source Projects.
 - 💬 Ask me about Full Stack technologies, Competetive programming and life in general.
