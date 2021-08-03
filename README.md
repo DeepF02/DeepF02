@@ -1,59 +1,63 @@
-<!-- - 🙌 Hii there I’m Deep Fumatiya
-- 👨‍💻 I’m interested in web development and competitive coding
-- ✨ I’m currently learning Backend development and frontend frameworks
-- 💞️ I’m looking for collaborations in interesting web dev projects
-- 📫 Let's get connected https://www.linkedin.com/in/deep-fumtiya-510958212 -->
-<!---
-DeepF02/DeepF02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-***********************************
 ### Welcome Reader/Visiter/Recruiter 👋 I am Deep
+{"A?":"B","a":5,"d":"B","h":"www.canva.com","c":"DAEl8twqcwc","i":"4pPBpzs8GAOjZHq0TjZxJg","b":1628011534857,"A":[{"A?":"I","A":297.23617941734256,"B":332.64094591172864,"D":1269.921259842519,"C":954.1478282956562,"a":{"A":false,"I":{"A":"VAECoVRhjLU","B":{"D":1269.921259842519,"C":954.1478282956562},"F":"B","I":true}}}],"B":1587.4015748031495,"C":2245.03937007874}
 
 ***********************************
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /> </p>
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>About me</b> <br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Deep Fumatiya from India.
-- 🔭 I’m currently pursuing my Bachelor of Technology in Electronics Engineering from V.J.T.I. Mumbai.
+- 🎓 I’m currently pursuing my Bachelor of Technology in Electronics Engineering from Veermata Jijabai Technological Institute(VJTI), Mumbai, India.
 - 🌱 I’m currently improving and practicing my skills for Full-Stack Development.
-- 👯 I’m looking to collaborate in exciting wed dev projects and also Open-source Projects.
-- 💬 Ask me about Full Stack technologies, Competetive programming and life in general.
+- 👯 I’m looking to collaborate in exciting wed dev projects and also on Open-source Projects.
+- 💬 Ask me about Full Stack technologies, Competetive programming, Anime and life in general.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/deep-fumtiya-510958212/).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Languages and Tools</b> <br>
+## Skills
+- ### 👩‍💻 Languages
+
+
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+  ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+- ### 🛢 DBMS
+  ![Mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+- ### ☁ Cloud
+  ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+- ### 🌐 Web Development
+  ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+- ### ⚙️ Version Control
+  ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
 
 <p align="center">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/html.svg" alt="html" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/javascript.svg" alt="javascript" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/python.svg" alt="python" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/iot.svg" alt="iot" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/ai.svg" alt="ai" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/datascience.svg" alt="datascience" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/visualstudio.svg" alt="vs" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/jetbrains_pycharm.svg" alt="pycharm" style="vertical-align:top; margin:4px">
- <img src="https://github.com/anishghimire603/anishghimire603/blob/master/Assets/aws.svg" alt="aws" style="vertical-align:top; margin:4px">
-
+ ![Deep Fumatiya Github Stats]
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepF02&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="Deep Stats" /> 
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepF02&theme=cobalt" alt="DeepF02" /></p>
+</p>
+ <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepF02&layout=compact&show_icons=true&theme=cobalt" alt="DeepF02" /></p>
 </p>
 
 
-**I am Into ,**
-
-**Web, 3D, Ml & IOT**
-<br />
-
-
-![Deep Fumatiya Github Stats](https://github-readme-stats.vercel.app/api?username=DeepF02&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<!-- ![Deep Fumatiya Github Stats](https://github-readme-stats.vercel.app/api?username=DeepF02&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 <br /> 
 
-- 📫 How to reach me:<br>
+- 📫 Connect we me ;)<br>
 <a href = "https://www.instagram.com/deep_fumatiya/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/deep-fumtiya-510958212/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
 <!-- <a href = "https://ganish.com.np/"><img src = "https://image.flaticon.com/icons/svg/841/841364.svg" height= 15px width = 15px> Website </a> -->
 
 *************
 
-From [DeepF02](https://github.com/DeepF02)
+⭐️From [DeepF02](https://github.com/DeepF02)⭐️
 
-#### Thank You 🙏🏼
+#### Thanks for reading.. Go ahead and have a look on my recent repo's.
