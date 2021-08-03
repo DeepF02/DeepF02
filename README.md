@@ -58,7 +58,7 @@
   <a href="https://www.instagram.com/deep_fumatiya/" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="@deep_fumatiya" height="30" width="40" /></a>
 </p>
 
-[jatinS-dev](https://github.com/jatinS-dev)
+
 ⭐️From [DeepF02](https://github.com/DeepF02)⭐️
 
 <h3 align="center"> Thanks for reading.. Go ahead and have a look on my recent repo's.</h3>
