@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome Reader/Visiter/Recruiter 👋 I am Deep</h1>
 <!--   <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder.gif" width="360"/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /> </p>
-  
+<p align="left"> <img src="https://img.shields.io/twitter/url/https/twitter.com" alt="my profile views" />(https://twitter.com/Deep_Fumtiya2) </p>
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya2) ![](https://visitor-badge.glitch.me/badge?page_id=DeepF02.profileviews-badge)
 
 ## Some info on me<br>
