@@ -41,7 +41,7 @@
 
 
 
-<hr>
+***************
 ## Github Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DeepF02&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="Deep Stats" /> 
