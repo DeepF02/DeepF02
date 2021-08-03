@@ -61,4 +61,4 @@
 
 ⭐️From [DeepF02](https://github.com/DeepF02)⭐️
 
-<h3 align="center"> Thanks for reading.. Go ahead and have a look on my recent repo's.</h3>
+<h3 align="center"> Thanks for reading.. Go ahead and have a look at my recent repo's.</h3>
