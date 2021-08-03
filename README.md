@@ -1,11 +1,11 @@
 <h1 align="center"> Welcome Reader/Visiter/Recruiter 👋 I am Deep</h1>
 <!--   <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder.gif" width="360"/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /> 
-&nbsp;&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya2) </p>
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya) </p>
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya2)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya)
 
-*************
+
 ## Some info on me<br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Deep Fumatiya from India.
 - 🎓 I’m currently pursuing my Bachelor of Technology in Electronics Engineering from Veermata Jijabai Technological Institute(VJTI), Mumbai, India.
@@ -13,6 +13,9 @@
 - 👯 I’m looking to collaborate in exciting wed dev projects and also on Open-source Projects.
 - 💬 Ask me about Full Stack technologies, Competetive programming, Anime and life in general.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/deep-fumtiya-510958212/).
+
+
+
 
 *************
 ## Skills
@@ -36,6 +39,9 @@
 - ### ⚙️ Version Control
   ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+
+
+
 
 *************
 ## Github Stats
