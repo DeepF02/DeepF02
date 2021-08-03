@@ -1,11 +1,11 @@
 <h1 align="center"> Welcome Reader/Visiter/Recruiter 👋 I am Deep</h1>
-  <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder.gif" width="360"/>
+<!--   <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder.gif" width="360"/> -->
 ***********************************
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /> </p>
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya)
   
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Saurabh67110062) ![](https://visitor-badge.glitch.me/badge?page_id=Spnetic-5.profileviews-badge)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya2) ![](https://visitor-badge.glitch.me/badge?page_id=DeepF02.profileviews-badge)
 
 ## Some info on me<br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Deep Fumatiya from India.
