@@ -16,7 +16,7 @@
 
 
 
-<hr>
+***************>
 ## Skills
 - ### 👩‍💻 Languages
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,7 +41,7 @@
 
 
 
-***************
+***************>
 ## Github Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DeepF02&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="Deep Stats" /> 
@@ -50,8 +50,8 @@
  <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepF02&layout=compact&show_icons=true&theme=cobalt" alt="DeepF02" /></p>
 </p>
 
-<hr>
-<h3 align="left">Connect with me:</h3>
+***************>
+##Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/deep-fumtiya-510958212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@deep-fumtiya-510958212/" height="30" width="40" /></a>
   <a href="https://www.instagram.com/deep_fumatiya/" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="@deep_fumatiya" height="30" width="40" /></a>
