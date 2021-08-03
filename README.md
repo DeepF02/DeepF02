@@ -1,7 +1,7 @@
 <h1 align="center"> Welcome Reader/Visiter/Recruiter 👋 I am Deep</h1>
 <!--   <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder.gif" width="360"/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /> </p>
-<!-- <p align="left"> <img src="https://img.shields.io/twitter/url/https/twitter.com" alt="my profile views" />(https://twitter.com/Deep_Fumtiya2) </p> -->
+
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya2) ![](https://visitor-badge.glitch.me/badge?page_id=DeepF02.profileviews-badge)
 
 ## Some info on me<br>
@@ -11,6 +11,7 @@
 - 👯 I’m looking to collaborate in exciting wed dev projects and also on Open-source Projects.
 - 💬 Ask me about Full Stack technologies, Competetive programming, Anime and life in general.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/deep-fumtiya-510958212/).
+
 
 ## Skills
 - ### 👩‍💻 Languages
@@ -35,12 +36,13 @@
   ![gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 
-<p align="center">
+## Github Stats
+<p align="left">
  ![Deep Fumatiya Github Stats]
   <img src="https://github-readme-stats.vercel.app/api?username=DeepF02&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="Deep Stats" /> 
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepF02&theme=cobalt" alt="DeepF02" /></p>
+  <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepF02&theme=cobalt" alt="DeepF02" /></p>
 </p>
- <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepF02&layout=compact&show_icons=true&theme=cobalt" alt="DeepF02" /></p>
+ <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepF02&layout=compact&show_icons=true&theme=cobalt" alt="DeepF02" /></p>
 </p>
 
 <br /> 
