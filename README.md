@@ -52,19 +52,15 @@
  <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepF02&layout=compact&show_icons=true&theme=cobalt" alt="DeepF02" /></p>
 </p>
 
-<br />
+
+*************
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jatin-salve-b1001b1a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@jatin-salve-b1001b1a2/" height="30" width="40" /></a>
-<a href="https://jasalve-b19.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jasalve-b19" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/deep-fumtiya-510958212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@deep-fumtiya-510958212/" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/deep_fumatiya/" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="@deep_fumatiya" height="30" width="40" /></a>
 </p>
-*************
-- 📫 Connect we me ;)<br>
-<a href = "https://www.instagram.com/deep_fumatiya/"><img src = "https://image.flaticon.com/icons/svg/174/174855.svg" height= 15px width = 15px> Instagram </a>&nbsp;&nbsp;
-<a href = "https://www.linkedin.com/in/deep-fumtiya-510958212/"><img src = "https://image.flaticon.com/icons/svg/174/174857.svg" height= 15px width = 15px> Linkedin </a>&nbsp;&nbsp;
-
-*************
+<br>
 ⭐️From [DeepF02](https://github.com/DeepF02)⭐️
 
 #### Thanks for reading.. Go ahead and have a look on my recent repo's.
