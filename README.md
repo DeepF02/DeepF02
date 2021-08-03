@@ -1,7 +1,7 @@
-<div>
+<h1 align="center"> Welcome Reader/Visiter/Recruiter 👋 I am Deep</h1>
   <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder.gif" width="360"/>
-<h1 align="left"> Welcome Reader/Visiter/Recruiter 👋 I am Deep</h1>
 ***********************************
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /> </p>
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya)
   
@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate in exciting wed dev projects and also on Open-source Projects.
 - 💬 Ask me about Full Stack technologies, Competetive programming, Anime and life in general.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/deep-fumtiya-510958212/).
-</div>
+
 ## Skills
 - ### 👩‍💻 Languages
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
