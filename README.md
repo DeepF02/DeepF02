@@ -1,7 +1,6 @@
 <h1 align="center"> Welcome Reader/Visiter/Recruiter 👋 I am Deep</h1>
 <!--   <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder.gif" width="360"/> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /> 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya) </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /></p>
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya)
 
@@ -60,7 +59,7 @@
   <a href="https://www.linkedin.com/in/deep-fumtiya-510958212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@deep-fumtiya-510958212/" height="30" width="40" /></a>
   <a href="https://www.instagram.com/deep_fumatiya/" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="@deep_fumatiya" height="30" width="40" /></a>
 </p>
-<br>
+<hr>
 ⭐️From [DeepF02](https://github.com/DeepF02)⭐️
 
-#### Thanks for reading.. Go ahead and have a look on my recent repo's.
+<h3 align="center"> Thanks for reading.. Go ahead and have a look on my recent repo's.</h3>
