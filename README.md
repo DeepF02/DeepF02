@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome Reader/Visiter/Recruiter 👋 I am Deep</h1>
 <!--   <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder.gif" width="360"/> -->
-  <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder2.gif" width="360"/>
+  <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder2.gif" width="380"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepF02&label=Profile%20views&color=0e75b6&style=flat" alt="my profile views" /></p>
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/Deep_Fumtiya)
@@ -8,10 +8,10 @@
 
 ## Some info on me<br>
 - <img src ="https://s3.amazonaws.com/pix.iemoji.com/images/emoji/apple/ios-12/256/boy-light-skin-tone.png" height= 15px width = 15px> I am Deep Fumatiya from India.
-- 🎓 I’m currently pursuing my Bachelor of Technology in Electronics Engineering from Veermata Jijabai Technological Institute(VJTI), Mumbai, India.
-- 🌱 I’m currently improving and practicing my skills for Full-Stack Development.
-- 👯 I’m looking to collaborate in exciting wed dev projects and also on Open-source Projects.
-- 💬 Ask me about Full Stack technologies, Competetive programming, Anime and life in general.
+- 🎓 I’m currently pursuing my B-Tech with majors in Electronics Engineering from Veermata Jijabai Technological Institute(VJTI), Mumbai, India.
+- 🌱 I’m currently learning different full stack technologies and practicing competitive programming.
+- 👯 I always look forward for collaborating in exciting Web Development Projects/Open-source Projects.
+- 💬 Ask me about Full Stack technologies, Competitive programming, Anime and life in general.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/deep-fumtiya-510958212/).
 
 
