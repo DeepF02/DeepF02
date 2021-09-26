@@ -54,8 +54,8 @@
 </p>
 
 ***************
-## Connect with me:
-<h1 align="center">Connect with me:</h1>
+<!-- ## Connect with me: -->
+<h2 align="center">Connect with me:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/deep-fumtiya-510958212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@deep-fumtiya-510958212/" height="30" width="40" /></a>
   <a href="https://www.instagram.com/deep_fumatiya/" target="blank"><img align="center" src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="@deep_fumatiya" height="30" width="40" /></a>
