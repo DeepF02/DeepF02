@@ -1,5 +1,5 @@
 <!-- <h1 align="center"> Welcome Reader/Visiter/Recruiter 👋 I am Deep</h1> -->
-<h1 align="center"><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World!!!! <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
+<h1 align="center"><img src="https://imgur.com/CTPzCrS.gif" height=25px width=25px> Hello World!! <img src="https://imgur.com/TFzFv3D.gif" height=20px width=20px></h1>
 <!--   <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder.gif" width="360"/> -->
 <img align="right" alt="GIF" src="https://imgur.com/Z9n1y5S.gif" height=360 width=400>
 <!--   <img align="right" alt="GIF" src="https://github.com/DeepF02/DeepF02/blob/main/stCoder2.gif" width="360" height="360"/> -->
