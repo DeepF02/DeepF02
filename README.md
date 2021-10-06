@@ -45,8 +45,9 @@
 
 
 ***************
-## Github Stats
-<p align="left">
+<!-- ## Github Stats -->
+<h2 align="center">Github Stats</h2>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeepF02&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="Deep Stats" /> 
   <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DeepF02&theme=cobalt" alt="DeepF02" /></p>
 <!-- </p> -->
